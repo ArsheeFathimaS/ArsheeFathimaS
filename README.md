@@ -35,7 +35,8 @@ With hands-on experience across **AI**, **Cloud**, and **Web Development**, I lo
 
 
 <!-- GitHub Stats -->
-![Arshee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsheeFathimaS&show_icons=true&theme=default)  <!-- Top Languages -->![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsheeFathimaS&layout=compact&theme=default)  
+![Arshee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsheeFathimaS&show_icons=true&theme=default)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsheeFathimaS&layout=compact)
+
 
 
 
